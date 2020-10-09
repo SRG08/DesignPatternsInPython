@@ -8,7 +8,7 @@ K.S.Srivastava
 # Hence, instead of other objects trying to copy the editor’s state from the
 # “outside,” the editor class itself can make the snapshot since it has full access to its own state.
 
-# Analogy : Restoring Previous state REDO Operation
+# Analogy : Restoring Previous state UNDO Operation
 
 
 class Memento:

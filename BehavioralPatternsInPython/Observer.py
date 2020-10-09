@@ -6,7 +6,7 @@ seanwasere ytbe
 
 # The Observer design pattern  in which the object , called a observable or the subject ,manage a list of dependents , called observers , and notifies them automatically of any internal state changes, and calls one of there methods.
 
-# Analogy : Subscription of service.
+# Analogy : Subscription of Services
 
 from abc import ABCMeta, abstractmethod  # Abstract base class
 
